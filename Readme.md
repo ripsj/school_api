@@ -7,9 +7,13 @@ Django 2.2
 For accessing the root of the API we need to visit:
 	https://dacodesschoolapi.herokuapp.com/
 
-We can login to POST info to the app. The credentials are:
+We can login to the app. The credentials are:
 	username:dacodes
 	password:dacodes
+
+Also we can visit:
+	https://dacodesschoolapi.herokuapp.com/admin/
+For a simple view to create, edit or delete elements on the database:
 
 ### School API Endpoints
 
